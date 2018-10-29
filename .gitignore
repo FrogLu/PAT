@@ -1,0 +1,7 @@
+# Unnecessary Complied files
+*.exe
+*.txt
+# VS Code Setting path
+/B/.vscode
+/A/.vscode
+/T/.vscode
