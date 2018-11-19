@@ -1,18 +1,10 @@
----
-pageClass: custom-page-class
----
-
-
-
 # Contents
 
-<p align="right">By Master(FrogLu)</p>
+There are some solutions for `PAT`by FrogLu.
 
-github Address：[https://github.com/FrogLu/PAT](https://github.com/FrogLu/PAT)
+The strategy of solve problems in my blog: [https://github.com/FrogLu/PAT](https://github.com/FrogLu/PAT)
 
-
-
-- - PAT B Contens[Official website](https://pintia.cn/problem-sets/994805260223102976/problems)(4/90)
+- - PAT B Contents: [Official website](https://pintia.cn/problem-sets/994805260223102976/problems)(4/90)
 
 |Id|Title|Solution|Type|Hard|
 |--|:----:| -----:|----|---:|
